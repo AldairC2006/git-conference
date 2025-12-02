@@ -1,5 +1,6 @@
 # Calculadora en Python v1.0
 
+#primer pull request aldair 75462
 ```bash
 calculadora-git/
 ├── main.py           # Interfaz principal
